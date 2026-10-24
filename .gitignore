@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.piper-venv/
+
+# AI models
+models/
+*.gguf
+*.onnx
+
+# Generated audio
+voice_output/
+voice_recordings/
+*.wav
+
+# Runtime files
+*.log
+*.ses
+
+# Secrets
+.env
+
+# macOS
+.DS_Store

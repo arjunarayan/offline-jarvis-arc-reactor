@@ -1,0 +1,7 @@
+numpy
+scipy
+sounddevice
+openwakeword
+vosk
+llama-cpp-python
+pyserial
